@@ -9,3 +9,5 @@ cd rpisurv
 cd rpisurvfullinstall
 
 python3 rpisurvprogram.py
+
+systemctl restart rpisurv

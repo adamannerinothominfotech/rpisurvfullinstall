@@ -6,7 +6,7 @@ cd rpisurv
 
 ./install.sh
 
-cd rpisurvfullinstall
+cd ..
 
 python3 rpisurvprogram.py
 
